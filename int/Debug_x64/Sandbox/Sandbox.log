@@ -1,0 +1,3 @@
+﻿  Application.cpp
+D:\OneDrive - Universitat de les Illes Balears\grado\tfg\Luxo\Sandbox\src\Application.cpp(7,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Sandbox.vcxproj -> D:\OneDrive - Universitat de les Illes Balears\grado\tfg\Luxo\bin\Debug_x64\Sandbox\Sandbox.exe
