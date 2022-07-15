@@ -1,3 +1,5 @@
+#include "lxpch.h"
+
 #include "Application.h"
 
 #include "Events/ApplicationEvent.h"

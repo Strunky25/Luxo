@@ -34,6 +34,7 @@
     <ClInclude Include="src\Luxo\Log.h">
       <Filter>Luxo</Filter>
     </ClInclude>
+    <ClInclude Include="src\lxpch.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Luxo\Application.cpp">
@@ -42,5 +43,6 @@
     <ClCompile Include="src\Luxo\Log.cpp">
       <Filter>Luxo</Filter>
     </ClCompile>
+    <ClCompile Include="src\lxpch.cpp" />
   </ItemGroup>
 </Project>

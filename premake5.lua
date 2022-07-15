@@ -18,6 +18,9 @@ project "Luxo"
 	targetdir  ("bin/" .. outputdir .. "/%{prj.name}")
 	objdir  ("int/" .. outputdir .. "/%{prj.name}")
 
+	pchheader "lxpch.h"
+	pchsource "Luxo/src/lxpch.cpp"
+
 	files
 	{
 		"%{prj.name}/src/**.h",

@@ -2,9 +2,6 @@
 
 #include "Luxo/Core.h"
 
-#include <string>
-#include <functional>
-
 namespace Luxo {
 
 	/* Change names to ed(?) */

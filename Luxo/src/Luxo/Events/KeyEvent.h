@@ -2,8 +2,6 @@
 
 #include "Event.h"
 
-#include <sstream>
-
 namespace Luxo {
 
 	class LUXO_API KeyEvent : public Event
