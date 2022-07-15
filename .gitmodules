@@ -1,0 +1,3 @@
+[submodule "Luxo/vendor/spdlog"]
+	path = Luxo/vendor/spdlog
+	url = https://github.com/gabime/spdlog
